@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Debola, and I'm a self and school trained software developer interested in all things Front-End and Scripting languages!
+
+- 🔭 I’m currently working on SnippetHub, building a platform that stores and saves code snippets for current or later use
+- 🌱 I’m currently learning how to use Golang for backend 
+- 👯 I’m looking to collaborate on problem solving web applications!
+  - Send me ideas to adebolabadejo@gmail.com
 
 <!--
 **Debola88/Debola88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
